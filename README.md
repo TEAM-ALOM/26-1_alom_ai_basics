@@ -1,1 +1,1 @@
-# 26-1_ai-basics
+# 26-1_alom_ai_basics
